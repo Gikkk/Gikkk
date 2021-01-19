@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Contribution guidelines for this project](image/img.jpg)
+![comp](comp.jpg)
 
 ### Find me around the web :globe_with_meridians:
 
