@@ -27,7 +27,7 @@
 [<img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/jquery/jquery-original-wordmark.svg" />]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" />]
 [<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />]
-[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/angularjs/angularjs-original.svg" />]
+[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/angularjs/angularjs-original.svg" />][]
 
 <br />
 
