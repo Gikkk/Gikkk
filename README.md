@@ -34,7 +34,6 @@
 ---
 
 <img align='left' alt="Gikkk's Github Stats" src="https://github-readme-stats.Gikkk.vercel.app/api?username=Gikkk&count_private=true&show_icons=true&hide_border=true" />
-
 <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gikkk&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/zhonzholadze
