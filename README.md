@@ -1,14 +1,11 @@
-## Hi there 👋
+### Hi there, I'm Giorgi Zhonzholadze 👋
 
-![comp](comp.jpg)
+## I'm Front-End Developer💻.
 
-### Find me around the web :globe_with_meridians:
-
-* My personal [Website](https://my-portfolio-7ab4c.web.app/) - (remake is coming soon...)
-* Let's connect on [LinkedIn](https://www.linkedin.com/in/giorgi-zhonzholadze-23b5a4204/)
-* My [Facebook](https://www.facebook.com/zhonzholadze/)
-
-### Focus :a: 
-I’m currently learning everything about Angular and TypeScript.
+- 🌱 I’m currently learning everything about Angular and TypeScript.
+- 💯 I’m looking for a good opportunity to show up my Skills.
+- 📧 Reach me through mail -- giorgizhonzholadze1996@gmail.com
+- 📞 +995 595 33 34 39
+- 📍 Telavi, Kakheti, Georgia.
 
 
