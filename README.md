@@ -1,4 +1,4 @@
-### Hi there, I'm Giorgi Zhonzholadze 👋
+### Hi there <a href="https://my-portfolio-7ab4c.web.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm Front-End Developer 💻.
 
@@ -33,8 +33,8 @@
 
 ---
 
-<img align='left' alt="Gikkk's Github Stats" src="https://github-readme-stats.Gikkk.vercel.app/api?username=Gikkk&count_private=true&show_icons=true&hide_border=true" />
-<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gikkk&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gikkk's github stats" />
+<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gikkk&layout=compact&theme=material-palenight" />
 
 [facebook]: https://www.facebook.com/zhonzholadze
 [instagram]: https://www.instagram.com/giorgizhonzholadze
