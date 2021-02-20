@@ -20,14 +20,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />][link]
-[<img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" />][link]
-[<img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" />][link]
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" />][link]
-[<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />][link]
-[<img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/jquery/jquery-original-wordmark.svg" />][link]
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/sass/sass-original.svg" />][link]
-[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/angularjs/angularjs-original.svg" />][link]
+[<img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />]
+[<img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" />]
+[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/sass/sass-original.svg" />]
+[<img align="left" alt="bootstrap" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/bootstrap/bootstrap-plain.svg" />]
+[<img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/jquery/jquery-original-wordmark.svg" />]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" />]
+[<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/typescript/typescript-original.svg" />]
+[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/angularjs/angularjs-original.svg" />]
 
 <br />
 
@@ -37,8 +37,6 @@
 
 <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gikkk&show_icons=true&hide_border=true" />
 
-[link]: https://github.com/I-BLACKPANTHER/I-BLACKPANTHER
-[portfolio]: https://dev.to/iblackpanther
-[facebook]: https://instagram.com/sree_vatsa_sistla
-[instagram]: https://instagram.com/sree_vatsa_sistla
-[linkedin]: https://www.linkedin.com/in/sree-vatsa-sistla-5613b1192
+[facebook]: https://www.facebook.com/zhonzholadze
+[instagram]: https://www.instagram.com/giorgizhonzholadze
+[linkedin]: https://www.linkedin.com/in/giorgi-zhonzholadze-23b5a4204
