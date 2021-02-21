@@ -18,7 +18,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="html5" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/I-BLACKPANTHER/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original-wordmark.svg" />
