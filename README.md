@@ -2,8 +2,7 @@
 
 ## I'm Front-End Developer 💻.
 
-- 🌱 I’m currently learning everything about Angular and TypeScript.
-- 💯 I’m looking for a good opportunity to show up my Skills.
+- 🌱 I’m interested in Angular and TypeScript.
 - 📧 Reach me through mail -- giorgizhonzholadze1996@gmail.com
 - 📞 +995 595 33 34 39
 - 📍 Telavi, Kakheti, Georgia.
